@@ -1,20 +1,12 @@
+## References
+#### Books
+-  Robert Boylestad, Louis Nashelsky- Electronic Devices And Circuit Theory,Prentice Hall Upper Saddle River, New Jersey Columbus, Ohio
+- Donald L. Schilling, Charles Belove -Electronic Circuits: Discrete And Integrated, McGraw-Hill Book Company New York St. Louis San Francisco Toronto London Sydney
 
+#### Web Lectures
+- [NPTEL Note](https://nptel.ac.in/)
 
-## Introduction
-
-<div align="center">
-<img src="experiment/images/iitkgp.png" width="10%">
-</div>
-
-<b>Discipline | <b> Computer Science and  Engineering 
-:--|:--|
-<b> Lab | <b> **Basic Electronics**
-<b> Experiment|     <b> **Studies on BJT CE Amplifier and Experiment 12**
-
-
-### About the Experiment 
-
-<!--Fill a brief description of this experiment here-->
+# People
 
 <b>Name of Developer | <b> **Prof. Chittaranjan Mandal**
 :--|:--|
@@ -24,13 +16,12 @@
 <b>Webpage| <b> [http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta](http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta)
 
 
-### Contributors List
+
+## Contributors list
+
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
 1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Computer Science and Engineering | IIT Kharagpur | 
 2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
 3 | **Prakriti Dhang** | Integration | Project Staff- Technical | Department of Computer Science and Engineering | IIT Kharagpur | 
-
-
-
