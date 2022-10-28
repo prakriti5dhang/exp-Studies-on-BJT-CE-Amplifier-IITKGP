@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Determine what would happen to the voltage gain of a common-emitter transistor amplifier circuit. If the resistance R<sub>c</sub> is changed, then Av<br/><p style=\"text-align:center\"><img src=\"image/bjtampq1.png\" style=\"width:350px;height:300px\"></p>",
+      "question": "Determine what would happen to the voltage gain of a common-emitter transistor amplifier circuit. If the resistance R<sub>c</sub> is changed, then Av<br/><p style=\"text-align:center\"><img src=\"images/bjtampq1.png\" style=\"width:350px;height:300px\"></p>",
       "answers": {
         "a": "Increase",
         "b": "Doesnot Change ",
@@ -20,7 +20,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Determine what would happen to the voltage gain of a common-emitter transistor amplifier circuit. If the resistance R<sub>bias1</sub> is changed, then Av<br/><p style=\"text-align:center\"><img src=\"image/bjtampq2.png \" style=\"width:350px;height:300px\"></p> ",
+      "question": "Determine what would happen to the voltage gain of a common-emitter transistor amplifier circuit. If the resistance R<sub>bias1</sub> is changed, then Av<br/><p style=\"text-align:center\"><img src=\"images/bjtampq2.png \" style=\"width:350px;height:300px\"></p> ",
       "answers": {
         "a": "Increase",
         "b": "Doesnot Change ",
@@ -38,7 +38,7 @@
     },
 
     {
-      "question": "Determine what would happen to the voltage gain of a common-emitter transistor amplifier circuit. If the resistance R<sub>bias2</sub> is changed, then Av <br/><p style=\"text-align:center\"><img src=\"image/bjtampq3.png \" style=\"width:350px;height:300px\"></p>",
+      "question": "Determine what would happen to the voltage gain of a common-emitter transistor amplifier circuit. If the resistance R<sub>bias2</sub> is changed, then Av <br/><p style=\"text-align:center\"><img src=\"images/bjtampq3.png \" style=\"width:350px;height:300px\"></p>",
       "answers": {
         "a": "Increase",
         "b": "Doesnot Change ",
