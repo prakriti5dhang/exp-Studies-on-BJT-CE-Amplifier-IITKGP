@@ -81,3 +81,6 @@ $$w_H^{-1}=(r_{pi}||[r_x+(R_B||R_S)]) C_T$$
 where,
 $$C_T=C_&#960;+C_&#956;[1+g_m(R_L|| R_C)]$$ and $$g_m=\frac{I_C}{V_T}$$
 
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+

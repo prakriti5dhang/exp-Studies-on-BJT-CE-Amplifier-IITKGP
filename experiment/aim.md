@@ -1,3 +1,2 @@
-### Aim of the experiment
+### Studies on BJT CE Amplifier
 
-Studies on BJT CE Amplifier
